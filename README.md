@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aarzoo-mohd-a318b225b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aarzoomohammad5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://aarzoomohammadportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
@@ -70,29 +69,36 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://hostelhub7.netlify.app/">Hostel Hub</a></h3>
-      <p align="center">Hostel Hub is a web-based hostel management system that streamlines room allocation, student registration, and fee tracking.
-It replaces manual, paper-based processes with a centralized digital dashboard for wardens and residents..</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
+     <h3 align="center"><a href="https://hostelhub7.netlify.app/">Hostel Hub</a></h3>
+<p align="center">Hostel Hub is a web-based hostel management system that streamlines room allocation, student registration, and fee tracking. It replaces manual, paper-based processes with a centralized digital dashboard for wardens and residents.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/YOUR_USERNAME/project-two">Project Two</a></h3>
-      <p align="center">Short description of what this project does and the problem it solves.</p>
+      <h3 align="center"><a href="https://ai-website-1-o4ai.onrender.com">AI Website Builder</a></h3>
+      <p align="center">AI Website Builder is a tool that generates fully functional websites from natural language prompts, handling layout, styling, and content generation automatically.
+It eliminates the need for manual coding or design software, letting users go from idea to live site in minutes..</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/See_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -100,14 +106,13 @@ It replaces manual, paper-based processes with a centralized digital dashboard f
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aarzoo-mohd-a318b225b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="aarzoomohammad5@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
-</p>
+</p> -->
 
 
 
