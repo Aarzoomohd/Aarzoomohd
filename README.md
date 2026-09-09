@@ -63,7 +63,13 @@
 </p>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aarzoomohd&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aarzoomohd&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aarzoomohd&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=aarzoomohd&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 🌟 Featured Projects
 
 <table>
@@ -103,16 +109,8 @@ It eliminates the need for manual coding or design software, letting users go fr
 
 ---
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/aarzoo-mohd-a318b225b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="aarzoomohammad5@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
-</p> -->
 
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
