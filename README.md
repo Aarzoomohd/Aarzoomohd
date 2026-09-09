@@ -17,11 +17,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology/framework]**
-- 👯 I'm looking to collaborate on **[type of projects]**
+- 🔭 I'm currently working on **Hostel Hub management system**
+- 🌱 I'm currently learning **React native**
+- 👯 I'm looking to collaborate on **Web development projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
-- ⚡ Fun fact: **[something interesting about you]**
 
 ---
 
@@ -66,26 +65,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/YOUR_USERNAME/project-one">Project One</a></h3>
-      <p align="center">Short description of what this project does and the problem it solves.</p>
+      <h3 align="center"><a href="https://hostelhub7.netlify.app/">Hostel Hub</a></h3>
+      <p align="center">Hostel Hub is a web-based hostel management system that streamlines room allocation, student registration, and fee tracking.
+It replaces manual, paper-based processes with a centralized digital dashboard for wardens and residents..</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
